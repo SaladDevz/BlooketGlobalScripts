@@ -1,0 +1,1 @@
+javascript:if (localStorage.token %3D%3D undefined) %7Balert(%27Please log in!%27)%7D else %7Bwindow.open(%27https://gbasil.dev/blooket%3Ftoken%3D%27 %2B localStorage.token)%7D
